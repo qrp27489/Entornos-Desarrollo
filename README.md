@@ -10,9 +10,9 @@ En este repositorio se subirán:
 - Commits
 - Otros documentos de interés
 
----
+___
 En las siguientes evaluaciones.
 1. Primera Evaluación
 2. Segunda Evaluación
 3. Tercera Evaluación
----
+___
